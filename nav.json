@@ -1,0 +1,31 @@
+"tabs": [
+  {
+    "name": "API Reference",
+    "url": "api-reference"
+  }
+],
+
+{
+    "group": "API Documentation",
+    "pages": [
+      "api-reference/authentication"
+    ]
+  },
+  {
+    "group": "Endpoint Examples",
+    "pages": [
+      "api-reference/endpoint/get",
+      "api-reference/endpoint/create",
+      "api-reference/endpoint/update",
+      "api-reference/endpoint/delete"
+    ]
+  },
+  {
+    "group": "User Examples",
+    "pages": [
+      "api-reference/user/get",
+      "api-reference/user/create",
+      "api-reference/user/update",
+      "api-reference/user/delete"
+    ]
+  }
