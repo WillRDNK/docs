@@ -1,0 +1,15 @@
+{
+  "name": "docs",
+  "version": "1.0.0",
+  "description": "Click on `Use this template` to copy the Mintlify starter kit. The starter kit contains examples including",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "mintlify dev --port 80"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "mintlify": "^4.0.137"
+  }
+}
